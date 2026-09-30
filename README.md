@@ -25,4 +25,3 @@ Bu proje; İnsan Kaynakları süreçleri için Bilgi Erişimi (Information Retri
    py -m streamlit run proje12.py
    ```
    > **Not:** Projeyi çalıştırmadan önce `proje12.py` dosyasındaki `GOOGLE_API_KEY` alanına kendi Google Gemini API anahtarınızı tanımlayın.
-   Not: Projeyi çalıştırmadan önce proje12.py dosyasındaki GOOGLE_API_KEY alanına kendi Google Gemini API anahtarınızı tanımlayın.
