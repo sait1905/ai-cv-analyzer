@@ -19,10 +19,10 @@ Bu proje; İnsan Kaynakları süreçleri için Bilgi Erişimi (Information Retri
 ## 💻 Kurulum ve Çalıştırma
 1. Repoyu klonlayın:
    ```bash
-   git clone (https://github.com/sait1905/ai-cv-analyzer.git](https://github.com/sait1905/ai-cv-analyzer.git)
+   git clone https://github.com/sait1905/ai-cv-analyzer.git
    cd ai-cv-analyzer
    pip install -r requirements.txt
-   streamlit run proje12.py
+   py -m streamlit run proje12.py
    ```
-
-> **Not:** Projeyi çalıştırmadan önce `proje12.py` dosyasındaki `GOOGLE_API_KEY` alanına kendi Google Gemini API anahtarınızı tanımlayın.
+   > **Not:** Projeyi çalıştırmadan önce `proje12.py` dosyasındaki `GOOGLE_API_KEY` alanına kendi Google Gemini API anahtarınızı tanımlayın.
+   Not: Projeyi çalıştırmadan önce proje12.py dosyasındaki GOOGLE_API_KEY alanına kendi Google Gemini API anahtarınızı tanımlayın.
